@@ -45,6 +45,6 @@ jobs:
       - name: Force ECS Deployment
         run: |
           aws ecs update-service \
-          --cluster banking-cluster \
-          --service producer-service \
+          --cluster banking-ledger-cluster \
+          --service banking-producer-service \
           --force-new-deployment
