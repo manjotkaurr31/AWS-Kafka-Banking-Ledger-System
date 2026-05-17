@@ -339,9 +339,3 @@ Potential future enhancements:
 - Saga orchestration
 
 ---
-
-# Resume Bullet
-
-Built and deployed a cloud-native event-driven banking ledger system using FastAPI, Kafka, PostgreSQL, Docker, AWS ECS Fargate, Amazon ECR, and GitHub Actions CI/CD with replayable transaction processing and immutable event storage.
-
----
