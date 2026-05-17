@@ -221,7 +221,7 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/architecture-diagram.png" width="900" alt="Architecture Diagram">
+  <img src="./images/architecture-diagram.png" width="900" alt="Architecture Diagram">
 </p>
 ```
 
@@ -233,7 +233,7 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/banking-cluster.png" width="900" alt="banking-cluster">
+  <img src="./images/banking-cluster.png" width="900" alt="banking-cluster">
 </p>
 ```
 
@@ -243,13 +243,13 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/banking-producer-service.png" width="900" alt="banking-producer-service">
+  <img src="./images/banking-producer-service.png" width="900" alt="banking-producer-service">
 </p>
 ```
 
 ```html
 <p align="center">
-  <img src="images/banking-consumer-service.png" width="900" alt="banking-consumer-service">
+  <img src="./images/banking-consumer-service.png" width="900" alt="banking-consumer-service">
 </p>
 ```
 
@@ -259,13 +259,13 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/producer-task-health.png" width="900" alt="producer-task-health">
+  <img src="./images/producer-task-health.png" width="900" alt="producer-task-health">
 </p>
 ```
 
 ```html
 <p align="center">
-  <img src="images/consumer-task-health.png" width="900" alt="consumer-task-health">
+  <img src="./images/consumer-task-health.png" width="900" alt="consumer-task-health">
 </p>
 ```
 
@@ -275,13 +275,13 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/banking-producer-ecr.png" width="900" alt="banking-producer-ecr">
+  <img src="./images/banking-producer-ecr.png" width="900" alt="banking-producer-ecr">
 </p>
 ```
 
 ```html
 <p align="center">
-  <img src="images/banking-consumer-ecr.png" width="900" alt="banking-consumer-ecr">
+  <img src="./images/banking-consumer-ecr.png" width="900" alt="banking-consumer-ecr">
 </p>
 ```
 
@@ -291,7 +291,7 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/alb.png" width="900" alt="alb">
+  <img src="./images/alb.png" width="900" alt="alb">
 </p>
 ```
 
@@ -302,7 +302,7 @@ GitHub Actions automates:
 
 ```html
 <p align="center">
-  <img src="images/fastapi-app.png" width="900" alt="swagger-ui">
+  <img src="./images/fastapi-app.png" width="900" alt="swagger-ui">
 </p>
 ```
 
