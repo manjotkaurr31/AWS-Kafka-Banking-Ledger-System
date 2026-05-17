@@ -219,11 +219,10 @@ GitHub Actions automates:
 
 # Architecture Diagram
 
-```html
+html
 <p align="center">
   <img src="./images/architecture-diagram.png" width="900" alt="Architecture Diagram">
 </p>
-```
 
 ---
 
@@ -231,80 +230,71 @@ GitHub Actions automates:
 
 ## ECS Cluster
 
-```html
+html
 <p align="center">
   <img src="./images/banking-cluster.png" width="900" alt="banking-cluster">
 </p>
-```
 
 ---
 
 ## Running ECS Services
 
-```html
+html
 <p align="center">
   <img src="./images/banking-producer-service.png" width="900" alt="banking-producer-service">
 </p>
-```
 
-```html
+html
 <p align="center">
   <img src="./images/banking-consumer-service.png" width="900" alt="banking-consumer-service">
 </p>
-```
 
 ---
 
 # ECR Tasks
 
-```html
+html
 <p align="center">
   <img src="./images/producer-task-health.png" width="900" alt="producer-task-health">
 </p>
-```
 
-```html
+html
 <p align="center">
   <img src="./images/consumer-task-health.png" width="900" alt="consumer-task-health">
 </p>
-```
 
 ---
 
 # ECR Repositories
 
-```html
+html
 <p align="center">
   <img src="./images/banking-producer-ecr.png" width="900" alt="banking-producer-ecr">
 </p>
-```
 
-```html
+html
 <p align="center">
   <img src="./images/banking-consumer-ecr.png" width="900" alt="banking-consumer-ecr">
 </p>
-```
 
 ---
 
 # Application Load Balancer
 
-```html
+html
 <p align="center">
   <img src="./images/alb.png" width="900" alt="alb">
 </p>
-```
 
 ---
 
 # Producer FastAPI
 ## Swagger UI
 
-```html
+html
 <p align="center">
   <img src="./images/fastapi-app.png" width="900" alt="swagger-ui">
 </p>
-```
 
 ---
 
